@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">NASATest</string>
+    <string name="dummy_message">Dummy Message</string>
+    <string name="retry">Retry</string>
+    <string name="no_cake_available">No cake available</string>
+    <string name="refresh">Refresh</string>
+    <string name="ok">OK</string>
+    <string name="title">Title : </string>
+    <string name="date">Date : </string>
+    <string name="author">Author : </string>
+    <string name="data_is_refreshed">Data is refreshed</string>
+</resources>
